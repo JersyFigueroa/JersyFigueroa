@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hola, soy Jersy
 
-<!--
-**JersyFigueroa/JersyFigueroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de programación  
+🚀 Me gusta Java y el desarrollo de servidores  
+⚡ "Mi código es como mi vida: compila pero no funciona"
 
-Here are some ideas to get you started:
+### 🛠 Tecnologías
+- Java
+- Git
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contacto
+- jersyfigueroa27@gmail.com

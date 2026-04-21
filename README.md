@@ -23,4 +23,4 @@
 | Area                    | Technologies |
 | ----------------------- | ------------ |
 | Programming Languages   |
-| Tools & Deployment      | <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> |
+| Tools & Deployment      |

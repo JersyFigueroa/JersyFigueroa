@@ -28,7 +28,7 @@
 | Area                    | Technologies |
 | ----------------------- | ------------ |
 | Programming Languages   | <img src="./Recursos/html5-original.svg" width="40" height="40" alt="HTML"> <img src="./Recursos/css3-original.svg" width="40" height="40" alt="CCS3"> <img src="./Recursos/VS_Code.png" width="40" height="40" alt="VS">|
-| Tools & Deployment      |
+| Tools & Deployment      | <img src="./Recursos/Git.svg" width="40" height="40" alt="GIT"> <img src="./Recursos/GitHub.svg" width="40" height="40" alt="GITHUB">|
 
 ## Mención honorifica
 

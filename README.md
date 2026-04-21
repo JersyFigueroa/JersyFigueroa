@@ -14,12 +14,6 @@
 <img width="180" height="180" alt="3x" src="https://github.com/user-attachments/assets/1e89df4d-9648-49b6-9376-2365107a6641"/>
 </div>
 
-
-### 🛠 Tecnologías
-- Java
-- Git
-- SQL
-
 ### 📫 Contacto
 - jersyfigueroa27@gmail.com
 

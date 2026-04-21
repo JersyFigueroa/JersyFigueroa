@@ -1,11 +1,6 @@
 ## 👋 HOLA
 
-<img width="175" height="112" alt="3x (1)" src="https://github.com/user-attachments/assets/6109f271-f5cd-48a7-91c5-54ad8aa52bc8"/>
-
-
-
-<img width="220" height="220" alt="3x" src="https://github.com/user-attachments/assets/acae88b1-8247-46bb-bff2-b61dcccc9ebc" />
-
+<img width="220" height="220" alt="3x (1)" src="https://github.com/user-attachments/assets/6109f271-f5cd-48a7-91c5-54ad8aa52bc8"/>
 
 
 💻 Estudiante de programación  

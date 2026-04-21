@@ -27,7 +27,7 @@
 
 | Area                    | Technologies |
 | ----------------------- | ------------ |
-| Programming Languages   | <img src="./Recursos/html5-original.svg" width="40" height="40" alt="HTML"> |
+| Programming Languages   | <img src="./Recursos/html5-original.svg" width="40" height="40" alt="HTML"> <img src="./Recursos/css3-original.svg" width="40" height="40" alt="CCS3"> <img src="./Recursos/VS_Code.png" width="40" height="40" alt="VS">|
 | Tools & Deployment      |
 
 ## Mención honorifica

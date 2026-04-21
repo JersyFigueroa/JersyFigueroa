@@ -32,8 +32,6 @@
 
 ## MENCIÓN HONORIFICA
 
-Gracias ChatGPT 
-
 <div align="center">
 <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/3679c346-1075-4000-a93e-2e2da7da1cf0" />
 </div>

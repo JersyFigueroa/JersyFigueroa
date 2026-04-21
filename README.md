@@ -27,7 +27,7 @@
 
 | Area                    | Technologies |
 | ----------------------- | ------------ |
-| Programming Languages   |
+| Programming Languages   | <img src="./Recursos/html5-original.svg" width="40" height="40" alt="HTML"> |
 | Tools & Deployment      |
 
 ## Mención honorifica

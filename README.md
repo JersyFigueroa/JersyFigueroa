@@ -17,3 +17,10 @@
 
 ### 📫 Contacto
 - jersyfigueroa27@gmail.com
+
+## 🛠️｜Languages & Technologies
+
+| Area                    | Technologies |
+| ----------------------- | ------------ |
+| Programming Languages   |
+| Tools & Deployment      |

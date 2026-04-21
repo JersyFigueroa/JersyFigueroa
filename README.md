@@ -10,7 +10,9 @@
 🚀 Me gusta Java y el desarrollo de servidores  
 ⚡ "Mi código es como mi vida: compila pero no funciona"
 
-<img width="112" height="112" alt="3x" src="https://github.com/user-attachments/assets/1e89df4d-9648-49b6-9376-2365107a6641" align="center"/>
+<div align="center">
+<img width="180" height="180" alt="3x" src="https://github.com/user-attachments/assets/1e89df4d-9648-49b6-9376-2365107a6641"/>
+</div>
 
 
 ### 🛠 Tecnologías

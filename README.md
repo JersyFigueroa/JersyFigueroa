@@ -1,6 +1,8 @@
 ## 👋 Hola, soy Jersy
 
+
 <img width="220" height="220" alt="3x" src="https://github.com/user-attachments/assets/acae88b1-8247-46bb-bff2-b61dcccc9ebc" />
+
 
 
 💻 Estudiante de programación  
